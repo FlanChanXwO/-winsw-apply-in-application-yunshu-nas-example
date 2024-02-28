@@ -1,0 +1,108 @@
+2024-02-28 21:03:49,876 DEBUG - Starting WinSW in console mode
+2024-02-28 21:03:49,886 FATAL - Unhandled exception
+System.Exception: Unknown command: refresh
+   在 WinSW.Program.Run(String[] argsArray, IServiceConfig config)
+   在 WinSW.Program.Main(String[] args)
+2024-02-28 21:03:57,770 DEBUG - Starting WinSW in console mode
+2024-02-28 21:03:58,045 DEBUG - Starting WinSW in console mode
+2024-02-28 21:03:58,055 INFO  - Stopping service 'YunshuNas (YunshuNas)'...
+2024-02-28 21:03:58,057 INFO  - Service 'YunshuNas (YunshuNas)' stopped successfully.
+2024-02-28 21:04:05,434 DEBUG - Starting WinSW in console mode
+2024-02-28 21:04:05,671 DEBUG - Starting WinSW in console mode
+2024-02-28 21:04:05,682 INFO  - Starting service 'YunshuNas (YunshuNas)'...
+2024-02-28 21:04:05,748 DEBUG - Starting WinSW in service mode
+2024-02-28 21:04:05,756 INFO  - Service 'YunshuNas (YunshuNas)' started successfully.
+2024-02-28 21:04:05,760 INFO  - Starting S:\Program Files\Programming\Compiler\jdk-17.0.10\bin\java.exe -jar "lib\yunshu-nas.jar"
+2024-02-28 21:04:05,770 INFO  - Started process 16712
+2024-02-28 21:04:05,776 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.ResetLogAppender
+2024-02-28 21:04:42,264 DEBUG - Starting WinSW in console mode
+2024-02-28 21:04:42,529 DEBUG - Starting WinSW in console mode
+2024-02-28 21:04:42,538 INFO  - Starting service 'YunshuNas (YunshuNas)'...
+2024-02-28 21:04:42,546 INFO  - Service 'YunshuNas (YunshuNas)' has already started.
+2024-02-28 21:05:06,100 DEBUG - Starting WinSW in console mode
+2024-02-28 21:05:06,390 DEBUG - Starting WinSW in console mode
+2024-02-28 21:05:06,403 INFO  - Stopping service 'YunshuNas (YunshuNas)'...
+2024-02-28 21:05:06,405 INFO  - Service 'YunshuNas (YunshuNas)' stopped successfully.
+2024-02-28 21:05:06,406 INFO  - Stopping YunshuNas
+2024-02-28 21:05:06,407 DEBUG - ProcessKill 16712
+2024-02-28 21:05:06,409 DEBUG - Stopping process 16712...
+2024-02-28 21:05:06,497 DEBUG - Process 16712 canceled with code 130.
+2024-02-28 21:05:06,509 INFO  - Finished YunshuNas
+2024-02-28 21:05:12,031 DEBUG - Starting WinSW in console mode
+2024-02-28 21:05:12,040 FATAL - Unhandled exception
+System.Exception: Unknown command: refresh
+   在 WinSW.Program.Run(String[] argsArray, IServiceConfig config)
+   在 WinSW.Program.Main(String[] args)
+2024-02-28 21:05:13,193 DEBUG - Starting WinSW in console mode
+2024-02-28 21:05:13,432 DEBUG - Starting WinSW in console mode
+2024-02-28 21:05:13,443 INFO  - Stopping service 'YunshuNas (YunshuNas)'...
+2024-02-28 21:05:13,451 INFO  - Starting service 'YunshuNas (YunshuNas)'...
+2024-02-28 21:05:13,517 DEBUG - Starting WinSW in service mode
+2024-02-28 21:05:13,530 INFO  - Starting S:\Program Files\Programming\Compiler\jdk-17.0.10\bin\java.exe -jar "lib\yunshu-nas.jar"
+2024-02-28 21:05:13,541 INFO  - Started process 16484
+2024-02-28 21:05:13,546 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2024-02-28 21:05:13,790 INFO  - Service 'YunshuNas (YunshuNas)' restarted successfully.
+2024-02-28 21:05:20,147 DEBUG - Starting WinSW in console mode
+2024-02-28 21:05:20,393 DEBUG - Starting WinSW in console mode
+2024-02-28 21:05:20,402 INFO  - Starting service 'YunshuNas (YunshuNas)'...
+2024-02-28 21:05:20,411 INFO  - Service 'YunshuNas (YunshuNas)' has already started.
+2024-02-28 21:15:01,183 DEBUG - Starting WinSW in console mode
+2024-02-28 21:15:01,438 DEBUG - Starting WinSW in console mode
+2024-02-28 21:15:01,449 INFO  - Stopping service 'YunshuNas (YunshuNas)'...
+2024-02-28 21:15:01,453 INFO  - Stopping YunshuNas
+2024-02-28 21:15:01,454 DEBUG - ProcessKill 16484
+2024-02-28 21:15:01,456 DEBUG - Stopping process 16484...
+2024-02-28 21:15:01,530 DEBUG - Process 16484 canceled with code 130.
+2024-02-28 21:15:01,544 INFO  - Finished YunshuNas
+2024-02-28 21:15:01,709 INFO  - Starting service 'YunshuNas (YunshuNas)'...
+2024-02-28 21:15:01,775 DEBUG - Starting WinSW in service mode
+2024-02-28 21:15:01,787 INFO  - Starting S:\Program Files\Programming\Compiler\jdk-17.0.10\bin\java.exe -jar "lib\yunshu-nas.jar"
+2024-02-28 21:15:01,797 INFO  - Started process 15868
+2024-02-28 21:15:01,804 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2024-02-28 21:15:02,047 INFO  - Service 'YunshuNas (YunshuNas)' restarted successfully.
+2024-02-28 21:15:16,761 DEBUG - Starting WinSW in console mode
+2024-02-28 21:15:17,002 DEBUG - Starting WinSW in console mode
+2024-02-28 21:15:17,011 INFO  - Stopping service 'YunshuNas (YunshuNas)'...
+2024-02-28 21:15:17,014 INFO  - Service 'YunshuNas (YunshuNas)' stopped successfully.
+2024-02-28 21:15:17,016 INFO  - Stopping YunshuNas
+2024-02-28 21:15:17,016 DEBUG - ProcessKill 15868
+2024-02-28 21:15:17,018 DEBUG - Stopping process 15868...
+2024-02-28 21:15:17,074 DEBUG - Process 15868 canceled with code 130.
+2024-02-28 21:15:17,080 INFO  - Finished YunshuNas
+2024-02-28 21:15:22,392 DEBUG - Starting WinSW in console mode
+2024-02-28 21:15:22,642 DEBUG - Starting WinSW in console mode
+2024-02-28 21:15:22,652 INFO  - Starting service 'YunshuNas (YunshuNas)'...
+2024-02-28 21:15:22,713 DEBUG - Starting WinSW in service mode
+2024-02-28 21:15:22,723 INFO  - Service 'YunshuNas (YunshuNas)' started successfully.
+2024-02-28 21:15:22,727 INFO  - Starting S:\Program Files\Programming\Compiler\jdk-17.0.10\bin\java.exe -jar "lib\yunshu-nas.jar"
+2024-02-28 21:15:22,737 INFO  - Started process 25680
+2024-02-28 21:15:22,743 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2024-02-28 21:18:38,380 DEBUG - Starting WinSW in console mode
+2024-02-28 21:18:38,630 DEBUG - Starting WinSW in console mode
+2024-02-28 21:18:38,639 INFO  - Stopping service 'YunshuNas (YunshuNas)'...
+2024-02-28 21:18:38,642 INFO  - Service 'YunshuNas (YunshuNas)' stopped successfully.
+2024-02-28 21:18:38,643 INFO  - Stopping YunshuNas
+2024-02-28 21:18:38,643 DEBUG - ProcessKill 25680
+2024-02-28 21:18:38,698 DEBUG - Process 25680 canceled with code 130.
+2024-02-28 21:18:38,713 INFO  - Finished YunshuNas
+2024-02-28 21:18:44,801 DEBUG - Starting WinSW in console mode
+2024-02-28 21:18:45,043 DEBUG - Starting WinSW in console mode
+2024-02-28 21:18:45,053 INFO  - Starting service 'YunshuNas (YunshuNas)'...
+2024-02-28 21:18:45,116 DEBUG - Starting WinSW in service mode
+2024-02-28 21:18:45,125 INFO  - Service 'YunshuNas (YunshuNas)' started successfully.
+2024-02-28 21:18:45,129 INFO  - Starting S:\Program Files\Programming\Compiler\jdk-17.0.10\bin\java.exe -jar "lib\yunshu-nas.jar"
+2024-02-28 21:18:45,139 INFO  - Started process 31240
+2024-02-28 21:18:45,145 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2024-02-28 21:19:50,881 INFO  - Stopping YunshuNas
+2024-02-28 21:19:50,881 DEBUG - ProcessKill 31240
+2024-02-28 21:19:50,883 DEBUG - Stopping process 31240...
+2024-02-28 21:19:50,955 DEBUG - Process 31240 canceled with code 130.
+2024-02-28 21:19:50,963 INFO  - Finished YunshuNas
+2024-02-28 21:19:51,995 DEBUG - Starting WinSW in service mode
+2024-02-28 21:19:52,009 INFO  - Starting S:\Program Files\Programming\Compiler\jdk-17.0.10\bin\java.exe -jar "lib\yunshu-nas.jar"
+2024-02-28 21:19:52,018 INFO  - Started process 10324
+2024-02-28 21:19:52,023 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2024-02-28 21:21:00,514 DEBUG - Starting WinSW in service mode
+2024-02-28 21:21:00,584 INFO  - Starting S:\Program Files\Programming\Compiler\jdk-17.0.10\bin\java.exe -jar "lib\yunshu-nas.jar"
+2024-02-28 21:21:00,614 INFO  - Started process 8144
+2024-02-28 21:21:00,619 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
